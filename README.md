@@ -1,16 +1,26 @@
-# day_one_flutter
+# Challenge day 1
 
-A new Flutter project.
+## Flutter Inspiration App UI Design
 
-## Getting Started
+A Minimalist Flutter UI design
 
-This project is a starting point for a Flutter application.
+## Development Setup
 
-A few resources to get you started if this is your first Flutter project:
+Clone the repository and run the following commands:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShots
+
+<img src="Screenshot.png" height="500em" />
+
+## Download Apk
+
+<a href="app-release.apk" download><img src="downloader.png" width="200"></a>
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-bilal-b414b8296/)
